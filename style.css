@@ -1,0 +1,36 @@
+.container{
+    text-align: center;     /*to make the text at center*/
+    margin-top: 50px;
+}
+
+table{
+    margin: auto;   /*to make the table at center*/
+}
+
+input{
+    font-size: 35px;        /*size of our text typed*/
+    border-radius: 12px;
+    /* border: 3px solid black; */
+}
+
+button{
+    border-radius: 12px;
+    font-size: 33px;
+    color: white;
+    background-color: rgb(77, 117, 240);
+    width: 92px;        /*constant width to all buttons*/
+    height: 55px;       /*constant height to all buttons*/
+}
+
+.calculator{
+
+    background-color: #abc7fc;
+    display:inline-block;
+    border-radius: 16px;
+    padding: 17px;
+    border: 5px solid #000a57;
+}
+
+h1{
+    color: rgb(14, 1, 75);
+}
